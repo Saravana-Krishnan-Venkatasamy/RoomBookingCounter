@@ -1,0 +1,13 @@
+.taskbutton {
+  width: 95%;
+  background-color: #ffca22;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 25px;
+  padding: 55px;
+
+  
+}
+#list {
+  list-style: none;
+}
